@@ -1,0 +1,6 @@
+c:\users\melissa-acer\documents\visual studio 2015\Projects\PayCal\PayCal\bin\Debug\PayCal.exe.config
+c:\users\melissa-acer\documents\visual studio 2015\Projects\PayCal\PayCal\bin\Debug\PayCal.exe
+c:\users\melissa-acer\documents\visual studio 2015\Projects\PayCal\PayCal\bin\Debug\PayCal.pdb
+c:\users\melissa-acer\documents\visual studio 2015\Projects\PayCal\PayCal\obj\Debug\PayCal.csprojResolveAssemblyReference.cache
+c:\users\melissa-acer\documents\visual studio 2015\Projects\PayCal\PayCal\obj\Debug\PayCal.exe
+c:\users\melissa-acer\documents\visual studio 2015\Projects\PayCal\PayCal\obj\Debug\PayCal.pdb
