@@ -10,7 +10,6 @@ namespace PayCal
     {
         static void Main(string[] args)
         {
-            Console.Title = "Pay Calculator";
             Calculator calculator = new Calculator();
             calculator.CalculatePay();
         }
